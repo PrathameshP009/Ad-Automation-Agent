@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+venv/
+outputs/*.json
+outputs/*.mp4
+outputs/_render_tmp/
+keys_for_reviewer.txt

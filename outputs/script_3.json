@@ -1,0 +1,137 @@
+{
+  "title": "Upgrade Your Diversification",
+  "angle": "Frustration with insufficient diversification in algorithmic trading strategies",
+  "target_icp": "Retail Day Traders",
+  "total_duration_sec": 45,
+  "shots": [
+    {
+      "shot_number": 1,
+      "timecode": "0:00-0:03",
+      "duration_sec": 3,
+      "scene_type": "market_noise",
+      "visual": "A high-contrast vertical market chart: volatile red and green candlesticks, sharp directional movement, and one highlighted signal marker. No people, no generated text, no performance numbers.",
+      "vo_line": "Are you tired of feeling like you're throwing darts at the market?",
+      "on_screen_text": "A plan beats a guess.",
+      "sfx_music_cue": "Distorted, pulsing electronic music"
+    },
+    {
+      "shot_number": 2,
+      "timecode": "0:04-0:08",
+      "duration_sec": 4,
+      "scene_type": "missed_move",
+      "visual": "An illustrative market-price line moving across a dark chart, with a subtle highlighted observation point. No specific ticker, prices, or profit claims.",
+      "vo_line": "Missing out on profitable trades is costing you time and money.",
+      "on_screen_text": "Spot the setup. Don't chase.",
+      "sfx_music_cue": ""
+    },
+    {
+      "shot_number": 3,
+      "timecode": "0:09-0:14",
+      "duration_sec": 5,
+      "scene_type": "zoom_out",
+      "visual": "A polished market-intelligence interface bringing price action, sentiment, and options flow into one clear overview. Illustrative labels only; no returns or performance claims.",
+      "vo_line": "A broader view starts with looking across more than one signal.",
+      "on_screen_text": "Zoom out. See more.",
+      "sfx_music_cue": ""
+    },
+    {
+      "shot_number": 4,
+      "timecode": "0:15-0:22",
+      "duration_sec": 7,
+      "scene_type": "signal_flow",
+      "visual": "A refined interface showing market data, sentiment, and options-flow indicators feeding into an illustrative chart. Do not show fabricated statistics.",
+      "vo_line": "Bring market context, sentiment and options-flow signals into one clearer view.",
+      "on_screen_text": "Context. Sentiment. Flow.",
+      "sfx_music_cue": ""
+    },
+    {
+      "shot_number": 5,
+      "timecode": "0:23-0:30",
+      "duration_sec": 7,
+      "scene_type": "diversify",
+      "visual": "A clean watchlist interface with distinct market categories and signal rows. Show breadth without suggesting guaranteed returns or risk reduction.",
+      "vo_line": "Explore signals across a wider watchlist—not just one ticker.",
+      "on_screen_text": "Look beyond one ticker.",
+      "sfx_music_cue": ""
+    },
+    {
+      "shot_number": 6,
+      "timecode": "0:31-0:38",
+      "duration_sec": 7,
+      "scene_type": "risk_check",
+      "visual": "A measured pre-trade checklist reviewing setup, supporting signal, and risk; calm interface with no profit graph or unsubstantiated track-record claim.",
+      "vo_line": "Before making a move, review the setup, the signal and the risk.",
+      "on_screen_text": "Check before you act.",
+      "sfx_music_cue": ""
+    },
+    {
+      "shot_number": 7,
+      "timecode": "0:39-0:45",
+      "duration_sec": 6,
+      "scene_type": "call_to_action",
+      "visual": "A premium, uncluttered CrowdWisdomTrading end card with a clear invitation to explore market signals. No fabricated interface, user counts, or performance claims.",
+      "vo_line": "Explore CrowdWisdomTrading and make your next market check more informed.",
+      "on_screen_text": "Explore CrowdWisdomTrading.",
+      "sfx_music_cue": ""
+    }
+  ],
+  "cta": {
+    "line": "Explore CrowdWisdomTrading signals",
+    "visual": "A branded end card inviting traders to explore market signals, with a clear informational-risk disclosure"
+  },
+  "_research": {
+    "query": "Frustration with insufficient diversification in algorithmic trading strategies, seeking ways to optimize beyond current efforts retail day traders",
+    "sources": [
+      {
+        "title": "How to Optimize Algorithmic Strategies for Day Trading \u2013 Day Trader Business",
+        "url": "https://daytraderbusiness.com/strategies/algorithmic/how-to-optimize-algorithmic-strategies-for-day-trading",
+        "snippet": "Title: How to Optimize Algorithmic Strategies for Day Trading \u2013 Day Trader Business\n# How to Optimize Algorithmic Strategies for Day Trading. In this article, we delve into the essential components of optimizing algorithmic strategies for day trading. You\u2019ll learn what algorithmic strategies are, how to select the right one for your trading style, and the key factors to consider for optimization. "
+      },
+      {
+        "title": "How to Optimize Algorithmic Strategies for Day Trading \u2013 Day Trader Business",
+        "url": "https://daytraderbusiness.com/strategies/algorithmic/how-to-optimize-algorithmic-strategies-for-day-trading?lang=es",
+        "snippet": "Title: How to Optimize Algorithmic Strategies for Day Trading \u2013 Day Trader Business\n# How to Optimize Algorithmic Strategies for Day Trading. In this article, we delve into the essential components of optimizing algorithmic strategies for day trading. You\u2019ll learn what algorithmic strategies are, how to select the right one for your trading style, and the key factors to consider for optimization. "
+      },
+      {
+        "title": "How Algorithmic Trading Enhances Intraday Strategies in 2025",
+        "url": "https://www.utradealgos.com/blog/why-algorithmic-trading-enhances-intraday-strategies",
+        "snippet": "### Diversification\n\nAlgor trading enables intraday traders to diversify their strategies across multiple instruments and markets simultaneously. This diversification reduces overall portfolio risk and enhances the resilience of intraday trading strategies to market volatility.\n\n### Backtesting and Optimisation\n\nOn platforms like uTrade Algos, algorithms can be backtested using historical data to "
+      },
+      {
+        "title": "Algorithmic Trading Strategies for Retail Traders: Your No-BS Guide to Automated Profits | by Santiago | Medium",
+        "url": "https://medium.com/@kayakero_10555/algorithmic-trading-strategies-for-retail-traders-your-no-bs-guide-to-automated-profits-9da9db74e1bc",
+        "snippet": "# Algorithmic Trading Strategies for Retail Traders: Your No-BS Guide to Automated Profits. **Algorithmic trading strategies for retail traders** aren\u2019t just for Wall Street anymore. But here\u2019s what I learned after burning through my first $5,000 trying to day trade manually: emotions will kill your account faster than a bad strategy ever will. ## The Big 3: Core Algorithmic Trading Strategies Tha"
+      },
+      {
+        "title": "Diversification Strategies in Algorithmic Trading \u2013 Blog",
+        "url": "https://bluechipalgos.com/blog/diversification-strategies-in-algorithmic-trading",
+        "snippet": "##### What is Diversification in Algorithmic Trading?\n\nIn algorithmic trading, diversification is best described as the practice of investing in independent models, strategies, markets, or instruments. This helps to have an independent capital allocation which helps to manage trade performance better. Apart from de-risking through diversification, there is no dependence on one algorithm or one mar"
+      },
+      {
+        "title": "What are the best ways to do algorithmic trading for small retail traders? - Quora",
+        "url": "https://www.quora.com/What-are-the-best-ways-to-do-algorithmic-trading-for-small-retail-traders",
+        "snippet": "What are the best ways to do algorithmic trading for small retail traders? Algorithmic trading for small retail traders is achievable and effective when approached with discipline, realistic expectations, and careful risk management. Algorithmic trading for small retail traders is achievable and effective when approached with discipline, realistic expectations, and careful risk management. The dif"
+      },
+      {
+        "title": "Retail Algorithmic Trading: How Individual Traders Build and Automate Strategies - Quant Matter",
+        "url": "https://quantmatter.com/retail-algorithmic-trading",
+        "snippet": "Run post-trade analysis weekly. Export trades to a CSV. Group by setup, time of day, and symbol. See what adds value and what cuts value. Remove low-value rules. Keep your core edge.\n\nSet a schedule to review your system monthly and quarterly. Markets change. Your system must adapt or step aside during bad times. It is fine to pause a system when its edge fades. Patience is an edge too.\n\n## Conclu"
+      },
+      {
+        "title": "Parameter Diversification in Quantitative Finance: The Secret Weapon of Successful Traders | by Pham The Anh | InsiderFinance Wire",
+        "url": "https://wire.insiderfinance.io/parameter-diversification-in-quantitative-finance-the-secret-weapon-of-successful-traders-29fed35ad0e8",
+        "snippet": "Title: Parameter Diversification in Quantitative Finance: The Secret Weapon of Successful Traders | by Pham The Anh | InsiderFinance Wire\nInsiderFinance news wire\u200a\u2014\u200aTop articles on data-driven trading, investing, analyses, tools, and strategies to achieve financial freedom. # Parameter Diversification in Quantitative Finance: The Secret Weapon of Successful Traders. ## Mastering Quant Finance: How"
+      },
+      {
+        "title": "Mistake #5: I Built a \u201cBetter\u201d Portfolio That Was Actually Worse",
+        "url": "https://paretoquant.substack.com/p/mistake-5-i-built-a-better-portfolio",
+        "snippet": "Mistake #5: I Built a \u201cBetter\u201d Portfolio That Was Actually Worse\n\n### Diversification is supposed to be a free lunch. My own backtest disagreed, until I looked at 2008. \n\nSep 17, 2026\n\nMost trading content gives you winning strategies. This series is the opposite: 10 Mistakes I made during my systematic trading journey, so you do not have to documents my mistakes, failures, almost-misses, and blin"
+      },
+      {
+        "title": "Diversification With Multiple EAs: Portfolio Guide",
+        "url": "https://goldenviperea.com/blog/risk-money/diversification-multiple-eas",
+        "snippet": "Diversification With Multiple EAs: Portfolio Guide\n\n# Diversification With Multiple EAs: How to Build a Trading Portfolio\n\n AW Adrian Walsh September 1, 2026 18 min read Risk & Money \n\nQuick Answer\n\nDiversification with multiple EAs reduces risk and smooths returns by spreading your capital across uncorrelated strategies. When EA A is in drawdown, EA B might be profitable, so the combined result s"
+      }
+    ]
+  }
+}
